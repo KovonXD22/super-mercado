@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-
+//Arraylists de supermercado
 class supermercado
 {
     public static void Main(string[] args)
